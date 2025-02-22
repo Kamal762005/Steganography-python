@@ -9,7 +9,16 @@ This Project Demonstrates A Simple Implementation Of Image Steganography Using P
 
 ### Requirements
 * platform - Any Platform That Support Python.
-* Libraries - opencv, os, string.<br>
+* Libraries - opencv, os, string.<br><br>
 Use The Following Command To Install opencv Through Terminal :
   ```bash
   pip install opencv-python
+
+### Run the file Steganography.py as per the following:
+![image](https://github.com/user-attachments/assets/938b7c8d-86ae-4750-9483-a3128b932a08)
+
+### End Users:
+* Government Agencies
+* Businesses
+* Cyberecurity Professionals
+* Creative Developers
