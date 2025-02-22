@@ -5,7 +5,8 @@ def decrypt(c,d):
     path=input("Enter Path Of Image To Decrypt: ")
     path = path.replace("\"",'')
     img1 = cv2.imread(path)
-    
+
+    #img1="/img1.jpg"
     # Retriving the password from the image.
     password = ""
     n , m = img1.shape[:2]
