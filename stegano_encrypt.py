@@ -5,7 +5,8 @@ def encrypt(input_text,c,d,p):
     path=input("Enter Path Of Image To Encrypt: ")
     path = path.replace("\"",'')
     img1 = cv2.imread(path)
-    
+
+    #img1="/img1.jpg"
     # storing password into an image
     n,m=img1.shape[:2]
     z=0
