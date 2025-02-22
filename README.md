@@ -4,4 +4,4 @@ This Project Demonstrates A Simple Implementation Of Image Steganography Using P
 * platform - Any Platform That Support Python.
 * Libraries - opencv, os, string.
 ### Features
-* **Data Security**
+* **Data Security** kamal
