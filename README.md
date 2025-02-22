@@ -10,7 +10,7 @@
 ### Requirements
 * platform - Any Platform That Support Python.
 * Libraries - opencv, os, string.<br><br>
-Use The Following Command To Install opencv Through Terminal :\
+Use The Following Command To Install opencv Through Terminal :<br>
   ```bash
   pip install opencv-python
 
