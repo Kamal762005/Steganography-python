@@ -4,8 +4,8 @@ import string
 
 # importing the encryption and decryption files
 
-import stegno_encrypt as se
-import stegno_decrypt as sd
+import stegano_encrypt as se
+import stegano_decrypt as sd
 
 d, c = {}, {}
 for i in range(255):
