@@ -17,9 +17,10 @@ Use The Following Command To Install Cryptography Package Through Terminal :<br>
   ```bash
   pip install pycryptodome
 ```
+
 ### Run the file Steganography.py :<br>
 <img width="1404" height="218" alt="image" src="https://github.com/user-attachments/assets/8ef97d1e-1349-49aa-bb56-40ec65fcd619" />
-### Output Image: <br>
+### Output Image :<br>
 <img width="474" height="296" alt="encrypted_image" src="https://github.com/user-attachments/assets/ce5d5437-9685-4598-a913-46a9aa087234" />
 
 
