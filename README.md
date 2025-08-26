@@ -32,6 +32,5 @@
 * Businesses
 * Cyberecurity Professionals
 * Creative Developers
-
-
-### Thank you
+<hr>
+### Thank you!
